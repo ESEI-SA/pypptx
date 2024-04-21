@@ -1,6 +1,6 @@
 # Pypptx
 
-Uso de pptx con Python.
+Uso de pptx con Python. Este es el README.md
 
 ## Usage
 
